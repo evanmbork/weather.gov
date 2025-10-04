@@ -423,6 +423,10 @@ footer div{
         align-items: center;
     }
 
+    #News p{
+        margin: 0px;
+    }
+
 }
 
 @media screen and (max-width: 710px) {
